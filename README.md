@@ -7,8 +7,9 @@
 
 # Train Travel Planner and Booking Platform for Europe 🚂🌍💻
 <div class="screenshots">
-  <img src="./TrainScanner_map.JPG" alt="Screenshot 1" class="screenshot">
-  <img src="./TrainScanner_lobby.JPG" alt="Screenshot 2" class="screenshot">
+  <img src="./lobby.jpg" alt="Screenshot 1" class="screenshot">
+  <img src="./nighttrains.jpg" alt="Screenshot 2" class="screenshot">
+  <img src="./groundtravel_comparative.jpg" alt="Screenshot 2" class="screenshot">
 </div>
 
 This project is a train travel planning and booking platform designed to simplify the process of finding and booking train tickets in Europe. The platform integrates openrail routing data and several APIs, including SNCF, Flixbus, OBB, Mav-start, and BlaBlaCar, to provide users with accurate and up-to-date information on journey options and ticket availability. The platform is developed using **Next.js**, **TailwindCSS**, and **Supabase**, ensuring high performance, scalability, and seamless data storage and management.
